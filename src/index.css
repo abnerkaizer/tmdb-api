@@ -9,7 +9,9 @@ body{
     background-color: black;
     color: white;
 }
-
+span {
+    color: #f7d354;
+}
 a {
     text-decoration: none;
     color: #f7d354;
